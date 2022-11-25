@@ -28,3 +28,6 @@ All notable changes to this project will be documented in this file.
 
 * Run tests automatically.
 
+### Documentation
+
+* Add README, CONTRIBUTING & LICENSE documents.
