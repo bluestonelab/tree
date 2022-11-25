@@ -4,6 +4,12 @@
 All notable changes to this project will be documented in this file.
 <!--- END HEADER -->
 
+## 1.0.2 (2022-11-25)
+
+### Documentation
+
+* Update CHANGELOG.
+
 ## 1.0.1 (2022-11-25)
 
 ### Continuous Integrations
